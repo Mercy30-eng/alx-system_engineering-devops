@@ -1,5 +1,6 @@
 # 0x00. Shell, basics
 > Shell Basics
+Handbook: <a href="https://github.com/Mercy30-eng/alx-system_engineering-devops/blob/main/0x00-shell_basics/0000-Handbook.pdf">here</a>
 
 ## :bulb: Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
