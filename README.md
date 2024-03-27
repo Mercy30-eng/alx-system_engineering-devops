@@ -1,17 +1,17 @@
 # ALX System Engineering-DeVops(Bash)
 > Shell Basics
 
-## Learning Objectives
+## :bulb: Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
-###General
+### :flashlight: General
 - What RFTM mean?
 - What is a Shebang?
-###What is the Shell
+### :turtle: What is the Shell
 - What is the shell?
 - What is the difference between a terminal and a shell
 - What is the shell prompt
 - How to use the history (the basics)
-###:mag_right: §­Navigion
+### :mag_right: §­Navigion
 - What do the commands or built-ins `cd`, `pwd`, `ls` do
 - How to navigate the filesystem
 - What are the . and .. directories
@@ -21,7 +21,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - What is the difference between the root directory and the home directory of the user root
 - What are the characteristics of hidden files and how to list them
 - What does the command `cd` - do
-###Looking Around
+### :eyes: Looking Around
 - What do the commands ls, less, file do
 - How do you use options and arguments with commands
 - Understand the ls long format and how to display it
@@ -31,11 +31,11 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - What is a symbolic link
 - What is a hard link
 - What is the difference between a hard link and a symbolic link
-### Manipulating Files
+### :bookmark_tabs: Manipulating Files
 - What do the commands `cp`,`mv`,`rm`,`mkdir` do 
 - What are wildcards and how do they work
 - How to use wildcards
-### Working with Commands
+### :computer: Working with Commands
 - What do `type`, `which`,`help`,`man` commands do
 - What are the different kinds of commands
 - What is an alias
@@ -44,12 +44,12 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - How to read a man page
 - What are man page sections
 - What are the section numbers for User commands, System calls and Library functions
-###:keyboard:  Keyboard Shortcuts for Bash
+### :keyboard:  Keyboard Shortcuts for Bash
 - Common shortcuts for Bash
-###:label:  LTS
+### :label:  LTS
 - What does `LTS` mean?
-##:bookmark: Requirements
-###General
+## :bookmark: Requirements
+### :black_nib: General
 - Allowed editors:`vi`,`vim`,`emacs`
 - All your scripts will be tested on Ubuntu 20.04 LTS
 - All your scripts should be exactly two lines long (`$ wc -l file` should print 2)
@@ -60,4 +60,4 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - You are not allowed to use backticks, `&&`, `||` or `;`
 - All your scripts must be executable. To make your file executable, use the `chmod` command: `chmod u+x file`. Later, weâ€™ll learn more about how to utilize this command
 
-Happy Coding!.
+<h5>Happy Coding! :smiley: </h5>
