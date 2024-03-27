@@ -1,17 +1,17 @@
-# alx-system_engineering-devops--UNIX--Bash
+# ALX System Engineering-DeVops(Bash)
 > Shell Basics
 
-## Learning Objectives
+## �Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
-### General
+### 👉General
 - What RFTM mean?
 - What is a Shebang?
-### What is the Shell
+### 🤷‍♀️What is the Shell
 - What is the shell?
 - What is the difference between a terminal and a shell
 - What is the shell prompt
 - How to use the history (the basics)
-### Navigation
+### 🧭Navigation
 - What do the commands or built-ins `cd`, `pwd`, `ls` do
 - How to navigate the filesystem
 - What are the . and .. directories
@@ -21,7 +21,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - What is the difference between the root directory and the home directory of the user root
 - What are the characteristics of hidden files and how to list them
 - What does the command `cd` - do
-### Looking Around
+### 👀Looking Around
 - What do the commands ls, less, file do
 - How do you use options and arguments with commands
 - Understand the ls long format and how to display it
@@ -31,24 +31,24 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - What is a symbolic link
 - What is a hard link
 - What is the difference between a hard link and a symbolic link
-### Manipulating Files
+### 📂Manipulating Files
 - What do the commands `cp`,`mv`,`rm`,`mkdir` do 
 - What are wildcards and how do they work
 - How to use wildcards
-### Working with Commands
+### 📌Working with Commands
 - What do `type`, `which`,`help`,`man` commands do
 - What are the different kinds of commands
 - What is an alias
 - When do you use the command help instead of man
-### Reading Man Pages
+### 📃Reading Man Pages
 - How to read a man page
 - What are man page sections
 - What are the section numbers for User commands, System calls and Library functions
-### Keyboard Shortcuts for Bash
+###⌨️ Keyboard Shortcuts for Bash
 - Common shortcuts for Bash
-### LTS
+###🏷️ LTS
 - What does `LTS` mean?
-##Requirements
+##🔖Requirements
 ###General
 - Allowed editors:`vi`,`vim`,`emacs`
 - All your scripts will be tested on Ubuntu 20.04 LTS
