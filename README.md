@@ -11,7 +11,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - What is the difference between a terminal and a shell
 - What is the shell prompt
 - How to use the history (the basics)
-### :mag_right: §­Navigion
+### :mag_right:  Navigationn
 - What do the commands or built-ins `cd`, `pwd`, `ls` do
 - How to navigate the filesystem
 - What are the . and .. directories
